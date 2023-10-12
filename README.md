@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TlonUqbar
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... stuff
-- 💞️ I’m looking to collaborate on ... interesting project
+- 👀 I’m interested in ... learning anything about programming
+- 🌱 I’m currently learning ... all kinds of stuff, from front-end react to linux
+- 💞️ I’m looking to collaborate on ... interesting projects
 - 📫 How to reach me ... that is the question for the ages
 
 <!---
