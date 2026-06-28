@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 # 👨‍💻Skills
 
 <!--- ## 🌐 Web Development --->
-[![👨‍💻Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,vscode,atom,sublime,vim,obsidian,markdown,linux,apple,docker,webpack,gherkin,mysql,postgresql,jenkins,bash,regex&perline=7)](https://skillicons.dev)
+[![👨‍💻Skills](https://skillicons.dev/icons?i=html,css,js,ruby,rails,git,github,vscode,atom,sublime,neovim,vim,obsidian,markdown,linux,apple,docker,webpack,gherkin,mysql,postgresql,jenkins,bash,regex&perline=7)](https://skillicons.dev)
